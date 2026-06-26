@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Welcome to Sports Space!",
+    "category": "Other",
+    "author": "Your Name",
+    "date": "2026-06-26T10:00:00Z",
+    "excerpt": "Your go-to source for breaking sports news, analysis, and insider stories.",
+    "body": "Welcome to **Sports Space** — the new home for sports journalism. Here's what you can expect: Breaking news from every major league, In-depth analysis and features, Exclusive interviews with athletes and coaches, Opinion pieces from our expert team."
+  },
+  {
+    "title": "Mega trade shakes up the league",
+    "category": "Basketball",
+    "author": "Marc Stein",
+    "date": "2026-06-26T08:00:00Z",
+    "excerpt": "In a blockbuster 5-team deal, the reigning scoring champion heads to the Lakers.",
+    "body": "The NBA was rocked today by a massive 5-team trade that sends the reigning scoring champion to the Los Angeles Lakers. The deal involves 12 players and 4 draft picks."
+  },
+  {
+    "title": "Champions League: Underdogs stun favourites",
+    "category": "Football",
+    "author": "Sam Lee",
+    "date": "2026-06-25T20:00:00Z",
+    "excerpt": "Late drama at the Bernabéu as the visitors snatch a last-minute winner.",
+    "body": "In a stunning upset, the underdogs defeated the tournament favourites with a goal in the 89th minute. The victory secures their place in the semi-finals."
+  },
+  {
+    "title": "Rookie sensation drops 40 points in playoff debut",
+    "category": "Basketball",
+    "author": "Shams C.",
+    "date": "2026-06-25T16:00:00Z",
+    "excerpt": "The 19-year-old phenom broke franchise records with an unforgettable performance.",
+    "body": "The rookie guard put on a show in his first playoff game, scoring 40 points with 8 assists and 5 rebounds. He becomes the youngest player in NBA history to score 40 in a playoff debut."
+  },
+  {
+    "title": "No-hitter bid ends in 9th, but pitcher makes history",
+    "category": "Baseball",
+    "author": "Jeff P.",
+    "date": "2026-06-25T12:00:00Z",
+    "excerpt": "The young ace struck out 14 and carried a no-hitter into the final inning.",
+    "body": "Despite losing the no-hitter with two outs in the 9th, the 24-year-old pitcher set a new franchise record with 14 strikeouts. He's now the frontrunner for the Cy Young award."
+  },
+  {
+    "title": "Formula 1: New regulation changes set to shake up grid",
+    "category": "Other",
+    "author": "Lawrence Barretto",
+    "date": "2026-06-24T22:00:00Z",
+    "excerpt": "From engine rules to aero packages, the 2026 season promises the biggest technical shift.",
+    "body": "The FIA has announced sweeping changes to F1 regulations for the 2026 season. The new rules focus on sustainability and closer racing, with active aerodynamics and a new power unit formula."
+  }
+]
